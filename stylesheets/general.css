@@ -1,0 +1,18 @@
+.mid-pic{
+    width: 50%;
+    max-width: 300px;
+    margin: 30px;
+}
+
+.container{
+    padding: 50px;
+    width: 100%;
+    text-align: center;
+}
+
+
+@media(min-width: 1200px){
+    .container{
+        width: 1200px;
+    }
+}
